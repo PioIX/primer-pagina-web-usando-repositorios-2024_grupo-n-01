@@ -15,9 +15,8 @@ El objetivo de esta parte del tp es que los integrantes del grupo apliquen el wo
 
 [borrar esto y personalizar el readme con sus datos]
 
-## Grupo Nº: 99
+## Grupo Nº: 01
 ## Integrantes:
-* pepe
-* pepito
-* pepa
-* pepita
+* Carrera
+* Duro
+* Nastasi
